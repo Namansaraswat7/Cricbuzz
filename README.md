@@ -5,15 +5,15 @@ To create cricbuzz dashboard
 
 Objects/Entity required
 
-1.Match
-2.Inning
-3.Scorecard
-4.Team
-5.Player
-6.Ball
-7.Over
-8.Wicker
-9.Scorecard
+1. Match
+2. Inning
+3. Scorecard
+4. Team
+5. Player
+6. Ball
+7. Over
+8. Wicker
+9. Scorecard
 
 Cricbuzz flow chart
 
